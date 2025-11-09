@@ -1,0 +1,6 @@
+mkdir -p week7
+nano week7/main.py
+touch week7/__init__.py
+nano main.py
+pip install -r requirements.txt || pip install psutil
+python main.py
